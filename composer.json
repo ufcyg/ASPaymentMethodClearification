@@ -4,6 +4,11 @@
   "type": "shopware-platform-plugin",
   "version": "v0.1.0",
   "license": "proprietary",
+  "authors": [
+    {
+        "name": "A&S PMO"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "ASPaymentMethodClearification\\": "src/"
